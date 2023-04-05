@@ -21,6 +21,6 @@ const runAnalysis = () => {
     .parseInt()
     .value()
 
-    console.log(`bucket: ${bucket}`);
+    console.log(`bucket prediction: ${bucket}`);
 }
 
